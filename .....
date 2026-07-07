@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matuê - Cantor</title>
+</head>
+<body>
+
+    <header>
+        <h1>Matuê</h1>
+        <p>Cantor, rapper e compositor brasileiro.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Biografia</h2>
+            <p>
+                Matuê é um dos principais nomes do trap brasileiro.
+                Ganhou destaque por suas músicas de grande sucesso e
+                por fazer parte da gravadora 30PRAUM.
+            </p>
+        </section>
+
+        <section>
+            <h2>Principais músicas</h2>
+            <ul>
+                <li>Anos Luz</li>
+                <li>Kenny G</li>
+                <li>Máquina do Tempo</li>
+                <li>Conexões de Máfia</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Imagem</h2>
+            <img src="matue.jpg" alt="Foto do cantor Matuê" width="300">
+        </section>
+    </main>
+
+    <footer>
+        <p>Site criado para trabalho escolar.</p>
+    </footer>
+
+</body>
+</html>
